@@ -1,7 +1,5 @@
 # Home
-<center>
-![logo](../favicon.png)
-</center>
+<center>![Screenshot](favicon.png)</center>
 <p align="justify">&emsp;&emsp;Repositório da disciplina de Interação Humano-Computador 2019.2 realizado sobre o site Lance. Este repositório reúne artefatos de interação humano-computador levantados a partir do site do Lance.</p>
 
 ## Equipe
