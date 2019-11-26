@@ -85,11 +85,6 @@
 | :----------: | :-----------------: |
 | Thallys Braz | João Vitor Oliveira |
 
-Segue o vídeo do avaliado utilizando o protótipo de alta fidelidade: ![Observação](../img/avaliacao_1.mov)
-
-<video width="320" height="240" controls>
-  <source src="avaliacao_1.mp4" type="docs/img/">
-</video>
 
 #### Tarefa 1
 
