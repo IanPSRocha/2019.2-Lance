@@ -498,3 +498,49 @@ Segue o vídeo do avaliado utilizando o protótipo de alta fidelidade: ![Observa
 |  O usuário aprende o fluxo de forma fácil?  | Sim |
 |  Algo causou insatisfação ao usuário?  |Não houve observações. |
 |  Qual o nível de satisfação do usuário?  | 5 |
+
+## Avaliação 1
+
+| Avaliador |     Avaliado      |
+| :-------: | :---------------: |
+| Ian Rocha | Heber Rocha |
+
+#### Tarefa 1
+
+|                         Avaliação                         |                                                                   Análise                                                                   |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|               O usuário atingiu o objetivo?               |                                                                     Sim                                                                     |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |                                                                     Sim                                                                     |
+|         O usuário aprende o fluxo de forma fácil?         |                                                                     Sim                                                                     |
+|           Algo causou insatisfação ao usuário?            | A palavra ao vivo estava muito pequena |
+|          Qual o nível de satisfação do usuário?           |                                                                      4                                                                      |
+
+#### Tarefa 2
+
+|                         Avaliação                         |                                                            Análise                                                             |
+| :-------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|               O usuário atingiu o objetivo?               |                                                              Sim                                                               |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |                                                              Sim                                                               |
+|         O usuário aprende o fluxo de forma fácil?         |                                                              Sim                                                               |
+|           Algo causou insatisfação ao usuário?            | Não |
+|          Qual o nível de satisfação do usuário?           |                                                               5                                                                |
+
+#### Tarefa 3
+
+|                         Avaliação                         |               Análise               |
+| :-------------------------------------------------------: | :---------------------------------: |
+|               O usuário atingiu o objetivo?               |                 Sim                 |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |            Mais ou menos            |
+|         O usuário aprende o fluxo de forma fácil?         |                 Sim                 |
+|           Algo causou insatisfação ao usuário?            |Não é intuitivo pela falta do nome "Tabela". Somente "Futebol" e "Série A" não condizem 100% para ser uma tabela de classificação |
+|          Qual o nível de satisfação do usuário?           |                  4                  |
+
+#### Tarefa 4
+
+|                         Avaliação                         |                                                 Análise                                                 |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|               O usuário atingiu o objetivo?               |                                                   Sim                                                   |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |                                              Mais ou menos                                              |
+|         O usuário aprende o fluxo de forma fácil?         |                                                   Sim                                                   |
+|           Algo causou insatisfação ao usuário?            | Não |
+|          Qual o nível de satisfação do usuário?           |                                                    5                                                    |
