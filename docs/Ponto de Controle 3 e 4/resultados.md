@@ -530,7 +530,7 @@ Segue o vídeo do avaliado utilizando o protótipo de alta fidelidade: ![Observa
 |                         Avaliação                         |               Análise               |
 | :-------------------------------------------------------: | :---------------------------------: |
 |               O usuário atingiu o objetivo?               |                 Sim                 |
-| O usuário consegue seguir facilmente o fluxo das tarefas? |            Mais ou menos            |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |            Sim            |
 |         O usuário aprende o fluxo de forma fácil?         |                 Sim                 |
 |           Algo causou insatisfação ao usuário?            |Não é intuitivo pela falta do nome "Tabela". Somente "Futebol" e "Série A" não condizem 100% para ser uma tabela de classificação |
 |          Qual o nível de satisfação do usuário?           |                  4                  |
@@ -540,7 +540,7 @@ Segue o vídeo do avaliado utilizando o protótipo de alta fidelidade: ![Observa
 |                         Avaliação                         |                                                 Análise                                                 |
 | :-------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 |               O usuário atingiu o objetivo?               |                                                   Sim                                                   |
-| O usuário consegue seguir facilmente o fluxo das tarefas? |                                              Mais ou menos                                              |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |                                             Sim                                              |
 |         O usuário aprende o fluxo de forma fácil?         |                                                   Sim                                                   |
 |           Algo causou insatisfação ao usuário?            | Não |
 |          Qual o nível de satisfação do usuário?           |                                                    5                                                    |
@@ -576,7 +576,7 @@ Segue o vídeo do avaliado utilizando o protótipo de alta fidelidade: ![Observa
 |                         Avaliação                         |               Análise               |
 | :-------------------------------------------------------: | :---------------------------------: |
 |               O usuário atingiu o objetivo?               |                 Sim                 |
-| O usuário consegue seguir facilmente o fluxo das tarefas? |            Mais ou menos            |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |            Sim            |
 |         O usuário aprende o fluxo de forma fácil?         |                 Sim                 |
 |           Algo causou insatisfação ao usuário?            | Não |
 |          Qual o nível de satisfação do usuário?           |                  5                  |
@@ -586,7 +586,7 @@ Segue o vídeo do avaliado utilizando o protótipo de alta fidelidade: ![Observa
 |                         Avaliação                         |                                                 Análise                                                 |
 | :-------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 |               O usuário atingiu o objetivo?               |                                                   Sim                                                   |
-| O usuário consegue seguir facilmente o fluxo das tarefas? |                                              Mais ou menos                                              |
+| O usuário consegue seguir facilmente o fluxo das tarefas? |                                              Sim                                              |
 |         O usuário aprende o fluxo de forma fácil?         |                                                   Sim                                                   |
 |           Algo causou insatisfação ao usuário?            | A falta da própria palavra "Agenda" torna o processo menos intuitivo |
 |          Qual o nível de satisfação do usuário?           |                                                    4                                                   |
