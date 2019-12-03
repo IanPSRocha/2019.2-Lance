@@ -31,3 +31,8 @@ Contudo a avaliação deve conter no mínimo 5 participantes.</p>
 ## 4. Referências
 
 [Nielsen Norman Group - Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+
+| Data | Versão | Modificação | Autor |
+|  :------: | :------: | :------: | :------: |
+| 29/10/2019 | 0.1 | Iniciando documento | Andŕe Goretti |
+| 20/11/2019 | 1.0 | Revisão e formatação | Murilo Loiola |

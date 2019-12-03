@@ -62,3 +62,8 @@ Não tirar totalmente os anúncios do site.
 - Sugerir correções
 
 <p align="justify">&emsp;&emsp;Os problemas citados pelos usuários no protótipo de papel, foram corrigidos no protótipo de alta fidelidade.</p>
+
+| Data | Versão | Modificação | Autor |
+|  :------: | :------: | :------: | :------: |
+| 28/10/2019 | 0.1 | Iniciando documento e adicionando protótipo | Thallys Braz |
+| 20/11/2019 | 1.0 | Revisão e formatação | André Goretti |

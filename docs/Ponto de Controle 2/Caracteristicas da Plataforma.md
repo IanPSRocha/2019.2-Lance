@@ -50,4 +50,5 @@ Cada time que está presente na sidebar principal do site possui sua página com
 
 | Data | Versão | Modificação | Autor |
 | ---- | ------ | ----------- | ----- |
-|14/09| 1.0 | Iniciando o Documento | Ian Rocha |
+|14/09| 1.0 | Iniciando o Documento e adicionando características positivas | Ian Rocha |
+|15/09| 1.1 | Adicionando características negativas | Thallys Braz |

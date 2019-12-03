@@ -1,11 +1,5 @@
 # Protótipo de alta fidelidade
 
-#### Histórico de revisões
-|   Data   |  Versão  |        Descrição       |          Autor(es)          |
-|:--------:|:--------:|:----------------------:|:---------------------------:|
-|03/11/2019|1.0| Iniciando o documento e adicionando protótipos |André Lucas|
-|04/11/2019|1.1|Modificando documento|André Lucas|
-
 ## 1. Introdução
 
 <p align="justify">&emsp;&emsp;Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visuais e funcionais do produto final, incluindo o conteúdo, fluxo de navegação e interações. São muito utilizados para testes e validação com usuários, ou para vender uma ideia, pois ver o produto “funcionando” costuma gerar fascinação.</p>
@@ -21,3 +15,8 @@ Acesse este link para utilizar o nosso protótipo interativo: [Protótipo Lance]
 ## 3. Referências
 
 - [Conheça os tipos de protótipos.](https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/)
+
+| Data | Versão | Modificação | Autor |
+|  :------: | :------: | :------: | :------: |
+| 03/11/2019 | 0.1 | Iniciando documento e adicionando protótipos | Andŕe Lucas |
+| 20/11/2019 | 1.0 | Revisão e formatação | Murilo Loiola |

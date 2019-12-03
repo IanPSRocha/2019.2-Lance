@@ -44,3 +44,4 @@
 | 12/10/2019 | 0.1 | Iniciando documento | Murilo Loiola |
 | 12/10/2019 | 0.2 | Adição da análise 1 | Murilo Loiola |
 | 13/10/2019 | 0.3 | Adição da análise 2 | Murilo Loiola |
+| 14/10/2019 | 1.0 | Revisando documento e reformatando | André Goretti |

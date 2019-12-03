@@ -17,3 +17,7 @@ particular do usuário durante o uso do sistema.</p>
 ### Objetivos
 
 ![storyboard](../../img/objetivos.png)
+
+|Versão|Data|Descrição|Autor|
+|---|---|---|---|
+|1.0|08/09/19|Adicionando planejamento da avaliação|Luís Cláudio|

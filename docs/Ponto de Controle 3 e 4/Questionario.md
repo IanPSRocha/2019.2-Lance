@@ -27,3 +27,8 @@
 ## Avaliação dos resultados
 
 <p align="justify">&emsp;&emsp;Com base no relato de usuário, além de melhorar as funcionalidades citadas pelo mesmo, houve necessidade de melhorar outros aspectos como as heuristicas de visibiliadde e reconhecimento.</p>
+
+| Data | Versão | Modificação | Autor |
+|  :------: | :------: | :------: | :------: |
+| 28/10/2019 | 0.1 | Iniciando documento | Murilo Loiola |
+| 20/11/2019 | 1.0 | Revisão e formatação | Ian Rocha |

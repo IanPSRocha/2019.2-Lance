@@ -206,3 +206,9 @@ Utilizamos as 10 heurísticas de Nielsen para analisar o site Lance, afim de det
 ### Figura 7
 
 ![Figura7](img/figura7.png)
+
+## Versionamento
+
+|Versão|Data|Descrição|Autor|
+|---|---|---|---|
+|1.0|08/09/19|Adicionando avaliações heurísticas|André Lucas, Thallys Braz|

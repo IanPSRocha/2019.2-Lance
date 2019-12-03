@@ -28,3 +28,4 @@
 | 12/10/2019 | 0.1 | Iniciando documento | André Lucas |
 | 13/10/2019 | 0.2 | Adição das personas 1 e 2 | André Lucas |
 | 16/10/2019 | 0.3 | Adição das personas 3 | André Lucas |
+| 20/11/2019 | 1.0 | Revisão e formatação | Luís Cláudio |

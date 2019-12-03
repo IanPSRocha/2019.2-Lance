@@ -142,4 +142,5 @@ Não, faz bastante tempo que não mexo.
 |  :------: | :------: | :------: | :------: |
 | 12/10/2019 | 0.1 | Iniciando documento | André Lucas |
 | 12/10/2019 | 0.2 | Adição da entrevista 1 | André Lucas |
-| 16/10/2019 | 0.2 | Adição da entrevista 2 e 3| André Lucas |
+| 16/10/2019 | 0.3 | Adição da entrevista 2 e 3| André Lucas |
+| 20/11/2019 | 1.0 | Revisão e formatação| Luís Cláudio |

@@ -42,3 +42,8 @@ A inconcistência pode trazer confusão para o usuário que esta navegando, dand
 
 <p align="justify">&emsp;&emsp;Trata das propriedades percebidas de um objeto que determinam como ele pode ser usado. Só olhando, o usuário sabe o que fazer, pois utiliza o mínimo de esforço. A partir das características do objeto, o usuário, mesmo sem o conhecer, cria uma idéia da funcionalidade do mesmo. O processo é óbvio e não precisa ser aprendido. Como por exemplo uma maçaneta, apenas ao olha você ja tem que saber que ela serve para puxar ou empurrar de acordo com seu formato. </p>
 <p align="justify">&emsp;&emsp;Ao entrar no site, você ja sente que está tudo meio fora do lugar, confundindo, por exemplo, a barra de navegação com alguma propaganda. Posicionar os elementos com o padrão ja conhecido por sites diferentes, como em abas, vai gerar um conforto melhor para o usuário para não ter que pensar muito para realizar ações.</p>
+
+| Data | Versão | Modificação | Autor |
+| ---- | ------ | ----------- | ----- |
+|14/09| 1.0 | Iniciando o Documento | Ian Rocha |
+|15/09| 1.1 | Adicionando características negativas | Thallys Braz |

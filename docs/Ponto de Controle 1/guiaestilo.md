@@ -39,3 +39,10 @@ Utilizada em grande parte dos textos e descrições.
 - Barra de navegação não padronizada, muda em diferentes páginas.
 - Ao clicar em alguns links abre uma nova aba.
 - Excesso de cores visuais.
+
+## Versionamento
+
+|Versão|Data|Descrição|Autor|
+|---|---|---|---|
+|1.0|08/09/19|Adicionando guia de estilo|André Goretti|
+|1.1|08/09/19|Adicionando resultado da análise|Murilo Loiola|

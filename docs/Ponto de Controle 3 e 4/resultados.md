@@ -585,3 +585,14 @@
 |         O usuário aprende o fluxo de forma fácil?         |                                                   Sim                                                   |
 |           Algo causou insatisfação ao usuário?            | A falta da própria palavra "Agenda" torna o processo menos intuitivo |
 |          Qual o nível de satisfação do usuário?           |                                                    4                                                   |
+
+| Data | Versão | Modificação | Autor |
+|  :------: | :------: | :------: | :------: |
+| 11/11/2019 | 0.1 | Adicionando entrevistas 1 | Ian Rocha |
+| 11/11/2019 | 0.2 | Adicionando entrevistas 2 e 3 | Thallys Braz |
+| 11/11/2019 | 0.3 | Adicionando entrevistas 4 | Andŕe Lucas |
+| 11/11/2019 | 0.4 | Adicionando entrevistas 5 e 6 | Luís Cláudio |
+| 11/11/2019 | 0.5 | Adicionando entrevistas 7 e 8 | Murilo Loiola |
+| 11/11/2019 | 0.6 | Adicionando entrevistas 9 e 10 | André Goretti |
+| 11/11/2019 | 0.7 | Adicionando entrevistas 11 e 12 | Ian Rocha |
+| 20/11/2019 | 1.0 | Revisão | Luís Cláudio |
